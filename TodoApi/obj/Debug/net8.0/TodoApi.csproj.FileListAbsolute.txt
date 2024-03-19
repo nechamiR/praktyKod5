@@ -35,3 +35,4 @@ D:\הנדסאים\שנה ב\praktiKod\Project4\TodoApi\bin\Debug\net8.0\Pomelo.E
 D:\הנדסאים\שנה ב\praktiKod\Project4\TodoApi\bin\Debug\net8.0\System.CodeDom.dll
 D:\הנדסאים\שנה ב\praktiKod\Project4\TodoApi\obj\Debug\net8.0\TodoApi.csproj.AssemblyReference.cache
 D:\הנדסאים\שנה ב\praktiKod\Project4\TodoApi\obj\Debug\net8.0\TodoApi.csproj.CopyComplete
+D:\הנדסאים\שנה ב\praktiKod\Project4\TodoApi\obj\Debug\net8.0\TodoApi.sourcelink.json
